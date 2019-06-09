@@ -19,4 +19,4 @@ $ pip install -r requirements.txt
 
 ## Contents
 
-* [Exploring MNIST with T-SNE](./mnist-tsne.ipynb)
+* [Exploring MNIST with T-SNE](./mnist-tsne.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stwind/notebooks/blob/master/mnist-tsne.ipynb)
