@@ -20,6 +20,8 @@ sympy = "*"
 tensorflow = "*"
 tensorflow-probability = "*"
 seaborn = "*"
+tensorflow-datasets = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.8"
