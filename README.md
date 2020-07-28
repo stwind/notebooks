@@ -22,3 +22,4 @@ $ pip install -r requirements.txt
 * [Exploring MNIST with T-SNE](./mnist-tsne.ipynb)
 * [Drawing Normal Distribution](./normal-dist.ipynb)
 * [Restricted Boltzmann Machines implemented in numpy](./rbm-raw.ipynb)
+* [Restricted Boltzmann Machines implemented in Tensorflow 2](./rbm-tf.ipynb)
