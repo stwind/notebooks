@@ -24,6 +24,9 @@ tensorflow-datasets = "*"
 pillow = "*"
 tensorflowjs = "*"
 prompt-toolkit = "*"
+umap-learn = "*"
+plyfile = "*"
+open3d = "*"
 
 [requires]
 python_version = "3.8"
