@@ -27,3 +27,4 @@ $ pip install -r requirements.txt
 * [VAE on MNIST with Pyro](./pyro_vae.ipynb)
 * [VAE on Fashion MNIST with Pytorch](./pytorch_vae.ipynb)
 * [Neural Cellular Automata](./neural_ca.ipynb)
+* [Neural Cellular Automata Textures](./neural_ca_textures.ipynb)
