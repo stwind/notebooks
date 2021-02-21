@@ -28,3 +28,4 @@ $ pip install -r requirements.txt
 * [VAE on Fashion MNIST with Pytorch](./pytorch_vae.ipynb)
 * [Neural Cellular Automata](./neural_ca.ipynb)
 * [Neural Cellular Automata Textures](./neural_ca_textures.ipynb)
+* [Vanilla U-Net Semantic Segmentation](./unet_vanilla.ipynb)
