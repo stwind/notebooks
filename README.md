@@ -29,3 +29,4 @@ $ pip install -r requirements.txt
 * [Neural Cellular Automata](./neural_ca.ipynb)
 * [Neural Cellular Automata Textures](./neural_ca_textures.ipynb)
 * [Vanilla U-Net Semantic Segmentation](./unet_vanilla.ipynb)
+* [Generalizable Data-free Objective for Crafting Universal Adversarial Perturbations](./gd_uap.ipynb)
