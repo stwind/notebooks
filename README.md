@@ -32,3 +32,4 @@ $ pip install -r requirements.txt
 * [Generalizable Data-free Objective for Crafting Universal Adversarial Perturbations](./gd_uap.ipynb)
 * [Vanilla Style Transfer](./style_transfer_vanilla.ipynb)
 * [Semantic Segmentation with U-Net++](./unetplusplus.ipynb)
+* [Semantic Segmentation with U2-Net](./u2net.ipynb)
