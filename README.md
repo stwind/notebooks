@@ -33,3 +33,4 @@ $ pip install -r requirements.txt
 * [Vanilla Style Transfer](./style_transfer_vanilla.ipynb)
 * [Semantic Segmentation with U-Net++](./unetplusplus.ipynb)
 * [Semantic Segmentation with U2-Net](./u2net.ipynb)
+* [Segmentation And Matting with OpenCV](./cv_seg_matting.ipynb)
