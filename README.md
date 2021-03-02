@@ -35,3 +35,4 @@ $ pip install -r requirements.txt
 * [Semantic Segmentation with U2-Net](./u2net.ipynb)
 * [Segmentation And Matting with OpenCV](./cv_seg_matting.ipynb)
 * [Sorting and UMAPing Ukiyo-e faces](./umap_hdbscan_ukiyoe_face.ipynb)
+* [Sorting and UMAPing Kaokore](./umap_hdbscan_kaokore.ipynb)
