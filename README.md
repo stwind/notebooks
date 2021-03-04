@@ -37,3 +37,4 @@ $ pip install -r requirements.txt
 * [Sorting and UMAPing Ukiyo-e faces](./umap_hdbscan_ukiyoe_face.ipynb)
 * [Sorting and UMAPing Kaokore](./umap_hdbscan_kaokore.ipynb)
 * [Generating Images with Pretrained Stylegan2-Ada](./stylegan2_ada_gen.ipynb)
+* [Object Detection with detectron2 on PeopleArt](./detectron2_peopleart.ipynb)
