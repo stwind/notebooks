@@ -39,3 +39,4 @@ $ pip install -r requirements.txt
 * [Generating Images with Pretrained Stylegan2-Ada](./stylegan2_ada_gen.ipynb)
 * [Object Detection with detectron2 on PeopleArt](./detectron2_peopleart.ipynb)
 * [Organize Images by Similarity](./image_similarity_architectures.ipynb)
+* [Retrain VGG16 For Image Similarity Sort With UMAP, Geomloss and LapJV](./vgg16_umap_geomloss_lapjv_sketches.ipynb)
