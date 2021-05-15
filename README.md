@@ -40,3 +40,4 @@ $ pip install -r requirements.txt
 * [Object Detection with detectron2 on PeopleArt](./detectron2_peopleart.ipynb)
 * [Organize Images by Similarity](./image_similarity_architectures.ipynb)
 * [Retrain VGG16 For Image Similarity Sort With UMAP, Geomloss and LapJV](./vgg16_umap_geomloss_lapjv_sketches.ipynb)
+* [Glyph Atlas with PyMDE, Geomloss and LapJV](./glyph_atlas_source_hans_serif.ipynb)
