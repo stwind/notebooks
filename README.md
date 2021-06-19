@@ -42,3 +42,4 @@ $ pip install -r requirements.txt
 * [Retrain VGG16 For Image Similarity Sort With UMAP, Geomloss and LapJV](./vgg16_umap_geomloss_lapjv_sketches.ipynb)
 * [Glyph Atlas with PyMDE, Geomloss and LapJV](./glyph_atlas_source_hans_serif.ipynb)
 * [Tiny Sinkhorn algorithm in PyTorch for Optimal Transport](./tiny_sinkhorn.ipynb)
+* [Wasserstein Barycenter of Simple 3D Geometry Primitives](./ot_mesh_primitive_3d.ipynb)
