@@ -43,3 +43,4 @@ $ pip install -r requirements.txt
 * [Glyph Atlas with PyMDE, Geomloss and LapJV](./glyph_atlas_source_hans_serif.ipynb)
 * [Tiny Sinkhorn algorithm in PyTorch for Optimal Transport](./tiny_sinkhorn.ipynb)
 * [Wasserstein Barycenter of Simple 3D Geometry Primitives](./ot_mesh_primitive_3d.ipynb)
+* [Named Entity Recognition with Huggingface on NCBI Disease Corpus](./simple_ner_huggingface_ncbi.ipynb)
