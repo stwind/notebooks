@@ -46,3 +46,4 @@ $ pip install -r requirements.txt
 * [Named Entity Recognition with Huggingface on NCBI Disease Corpus](./simple_ner_huggingface_ncbi.ipynb)
 * [Preparing the ARC Ukiyoe Faces dataset](./arc_ukiyoe_faces.ipynb)
 * [SimCLR on ARC Ukiyoe Faces dataset](./simclr_ukiyoe_faces.ipynb)
+* [BYOL on ARC Ukiyoe Faces dataset](./byol_ukiyoe_faces.ipynb)
